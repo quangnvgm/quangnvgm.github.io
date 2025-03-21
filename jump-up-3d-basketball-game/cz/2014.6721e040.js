@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcrazygames_gameframe=globalThis.webpackChunkcrazygames_gameframe||[]).push([[2014],{52014:(a,e,r)=>{r.r(e),r.d(e,{default:()=>o});var s=r(90831),l=r(48300),n=r(47313);const o=()=>((0,n.useEffect)((()=>{const a=(0,s.NI)().loaderOptions,{unityLoaderUrl:e,unityConfigOptions:r}=a;(0,l.kK)(e),(0,l.Wh)(r.frameworkUrl,!0)}),[]),null)}}]);
